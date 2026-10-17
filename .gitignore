@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+*/examples/output/
+# Tweet text cannot be redistributed; see nhs-service-demand/data/README.md
+nhs-service-demand/data/tweets.csv
