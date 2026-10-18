@@ -29,7 +29,7 @@
 | **Support community and elderly care:** care-home assessments and home visits | Home visits and care-home work are small categories and vary between regions (appendix Fig 5.6) |
 | **Healthcare communication via social media:** use high-traffic hashtags; promote digital health | [7](07-twitter-hashtags-and-sentiment.md) |
 
-## Re-checking the report against the data
+## The report's figures against the data
 
 The example recomputes every figure in Table 5.1 and sets it beside the
 report's wording. Most match exactly.

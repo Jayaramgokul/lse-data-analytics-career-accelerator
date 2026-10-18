@@ -21,7 +21,7 @@ Python: pandas, matplotlib, seaborn; NLTK VADER for sentiment.
 | 5 | [Appointment length, type and setting](docs/05-duration-and-national-categories.md) | [py](examples/05_duration_and_categories.py) |
 | 6 | [The busiest and quietest regions](docs/06-regional-comparison.md) | [py](examples/06_regional_comparison.py) |
 | 7 | [Healthcare on Twitter: hashtags and VADER sentiment](docs/07-twitter-hashtags-and-sentiment.md) | [py](examples/07_tweets.py) |
-| 8 | [Observations and recommendations, re-checked against the data](docs/08-observations-and-recommendations.md) | [py](examples/08_summary_check.py) |
+| 8 | [Observations and recommendations, with corrections](docs/08-observations-and-recommendations.md) | [py](examples/08_summary_check.py) |
 
 ## Main findings
 
@@ -42,7 +42,7 @@ Python: pandas, matplotlib, seaborn; NLTK VADER for sentiment.
   digital-health hashtags lean positive. This supports expanding remote
   options.
 
-Re-checking the work for this repository turned up two things:
+Corrections to the report:
 - **A chart bug.** Three bars in one chart were empty because of a
   double-space label mismatch ([4](docs/04-staff-mode-and-lead-time.md)).
 - **Misread values.** A few values in the written observations were read

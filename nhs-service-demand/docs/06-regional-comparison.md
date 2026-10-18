@@ -43,7 +43,7 @@ times** the routine, acute and triage appointments of the bottom five
 (3.8–4.5 times). That matches their four-times larger total volume: the
 difference is size again, not mix.
 
-## Reading the stacked charts: details found on re-checking
+## Reading the stacked charts: corrections
 
 The charts in Figs 4.17–4.25 are correct. Some of the written observations
 in the appendix (Figs 5.4–5.5) took values from the wrong segment or region.

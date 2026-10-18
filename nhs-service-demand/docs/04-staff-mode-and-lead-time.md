@@ -37,7 +37,7 @@ carry more of the long-lead bookings that patients tend to miss.
 Same-day demand splits evenly between telephone and face-to-face. The further
 ahead the booking, the more likely the appointment is face to face.
 
-> **A detail found on re-checking the code.** In the report, Fig 4.8 shows
+> **Correction.** In the report, Fig 4.8 shows
 > only four of the seven lead-time bars. The 8–14, 15–21 and 22–28 day bars
 > are empty. The notebook put the bars in time order using labels typed
 > with single spaces ("8 to 14 Days"). The data's labels have double spaces

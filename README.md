@@ -53,12 +53,11 @@ Each project folder holds:
 - High earners who spend little are the growth opportunity; low earners who
   spend heavily and review negatively are the churn risk.
 
-## Re-checking the work
+## Corrections to the original reports
 
-Rebuilding each analysis from the data surfaced details that the
-documents record where they occur.
+Each correction is documented where it occurs.
 
-| Project | What re-checking found |
+| Project | Correction |
 |---|---|
 | Turtle Games | A digit transposition in one reported error metric |
 | NHS | A label mismatch that left three bars of one chart empty. Several values in the written observations were read off the wrong segment of stacked charts; the most important: same-day booking is nearly half of appointments, not a fifth |

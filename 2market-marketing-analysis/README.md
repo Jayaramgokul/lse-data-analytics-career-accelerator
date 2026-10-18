@@ -45,8 +45,7 @@ Excel, SQL (PostgreSQL) and Tableau. Examples run the SQL in DuckDB.
   who bought in the last two weeks to 9% for those lapsed beyond 45 days,
   and it falls within every propensity group.
 
-Every number on the dashboard reproduces from the data. Re-running the work
-for this repository also surfaced:
+Every number on the dashboard reproduces from the data. Two further points:
 - 47 likely duplicate customers;
 - a recency filter behind the dashboard's headline tiles;
 - a comparison of response by propensity, which tests the propensity groups
